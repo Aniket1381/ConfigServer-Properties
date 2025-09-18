@@ -1,1 +1,2 @@
 msg: External Properties from Github.
+note: Any changes done here are reflected in the app without building, packaging and redeploying it again.
